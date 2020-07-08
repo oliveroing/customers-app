@@ -1,0 +1,45 @@
+{
+  "customers": [
+    {
+      "id": "30000001",
+      "dni": "30000001",
+      "name": "Facundo Iracundo",
+      "age": 17
+    },
+    {
+      "id": "30000000",
+      "dni": "30000000",
+      "name": "Aníbal Gatillardi",
+      "age": 35
+    },
+    {
+      "name": "LUCAS OLIVERO",
+      "dni": "34685973",
+      "age": 29,
+      "id": "aKq5SRH"
+    },
+    {
+      "name": "GIUSEPPE PERONI",
+      "dni": "8976114",
+      "age": 76,
+      "id": "fAUwaGy"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
