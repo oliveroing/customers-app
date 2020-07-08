@@ -2,6 +2,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Ir order to get the database working, uou must previosly run:
+
+### `json-server --watch db.json --port 3001`
+
 In the project directory, you can run:
 
 ### `yarn start`
